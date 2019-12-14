@@ -1,0 +1,2 @@
+# mips
+some mips code
